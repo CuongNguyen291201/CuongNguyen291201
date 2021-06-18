@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2 align="center">I'm CuongNguyen</h2>
-<h2 align="center">Front-end Developer</h2>
+<h2 align="center">Web Developer</h2>
 
 
 Somethings about me:
