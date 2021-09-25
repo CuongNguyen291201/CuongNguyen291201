@@ -6,7 +6,6 @@
 Somethings about me:
 
 - 🔭 I’m currently working on [Posts and Telecommunications Institute of Technology](https://portal.ptit.edu.vn)
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: [Instagram - @cuongnq_2912](https://www.instagram.com/cuongnq_2912)
 
 ## Languages and Tools:
